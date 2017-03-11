@@ -1,4 +1,6 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=666
+[![asciicast](https://asciinema.org/a/2izzo1iiw1wt9wx0vzd45unwl.png)](https://asciinema.org/a/2izzo1iiw1wt9wx0vzd45unwl)
+
+
 
 Hexmanger provides keymapping to view quickly your file
 in hexmode (convertion is done over the program xxd).
@@ -26,7 +28,9 @@ Available functions:
                                                                     
 If you want, you can change the mapping in your vimrc:
 Example (call with function key F6 the Hexmode:
-map <F6>  <Plug>HexManager                                          
+map <F6>  <Plug>HexManager   
+
+This project is forked from http://www.vim.org/scripts/script.php?script_id=666.
 
                      
 
