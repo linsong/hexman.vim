@@ -1,7 +1,6 @@
 [![asciicast](https://asciinema.org/a/2izzo1iiw1wt9wx0vzd45unwl.png)](https://asciinema.org/a/2izzo1iiw1wt9wx0vzd45unwl)
 
 
-
 Hexmanger provides keymapping to view quickly your file
 in hexmode (convertion is done over the program xxd).
                                                               
